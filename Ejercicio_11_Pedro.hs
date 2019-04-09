@@ -1,4 +1,4 @@
---11. Realiza una función en Haskell que permita cargar calcular la unión, intersección ydiferencia de dos conjuntos datos. Para esto puede hacer uso de la librería “Data.set”
+--11. Realiza una función en Haskell que permita cargar calcular la unión, intersección ydiferencia de dos conjuntos datos. Para esto puede hacer uso de la librería “Data.set”.
 
 
 import qualified Data.Set as Set
