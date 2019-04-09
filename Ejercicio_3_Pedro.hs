@@ -1,4 +1,4 @@
---3.- una cantidad de segundos, devuelve la cantidad de horas, minutos y segundos equivalente
+--3.- una cantidad de segundos, devuelve la cantidad de horas, minutos y segundos equivalente.
 
 segundosAHora :: Integer -> (Integer,Integer,Integer)
 segundosAHora s = (horas, minutos, segundos)
