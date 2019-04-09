@@ -1,4 +1,4 @@
---7.- Determina si dada una lista, ésta se encuentra ordenada. Se debe devolver verdadero o falso.
+--7.- Determina si dada una lista, ésta se encuentra ordenada. Se debe devolver verdadero ó falso.
 
 lista_ordenada::Ord a=>[a]->Bool
 lista_ordenada [] = True
