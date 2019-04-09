@@ -1,4 +1,4 @@
---12. Realiza una funcón que permita definir un mapa de datos y permita encontrar un valor a partir de su clave. Para esto puede hacer uso de la librería “Data.map”
+--12.Realiza una funcón que permita definir un mapa de datos y permita encontrar un valor a partir de su clave. Para esto puede hacer uso de la librería “Data.map”.
 
 import Data.Char
 import qualified Data.Map as Map
