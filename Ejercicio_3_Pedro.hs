@@ -1,4 +1,4 @@
---3 una cantidad de segundos, devuelve la cantidad de horas, minutos y segundos equivalente
+--3.- una cantidad de segundos, devuelve la cantidad de horas, minutos y segundos equivalente
 
 segundosAHora :: Integer -> (Integer,Integer,Integer)
 segundosAHora s = (horas, minutos, segundos)
@@ -8,4 +8,3 @@ segundosAHora s = (horas, minutos, segundos)
 				minutos = div ss 60
 				segundos = mod ss 60
 
---Ejemplo: segundosAHora 5678
