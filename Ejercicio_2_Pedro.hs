@@ -3,4 +3,4 @@
 contiene :: Int->Bool
 contiene n = n `elem` [1,2..10]
 
---Ejemplo: contiene 2
+
